@@ -1,0 +1,917 @@
+{
+  "schemaVersion": 1,
+  "createdAt": "2026-10-15",
+  "purpose": "Research-only compact candidate queue, not an approved round pack.",
+  "timeUnit": "seconds",
+  "warning": "Coarse caption blocks and crowd-sourced SponsorBlock ad boundaries do not certify the earliest spoken or visual brand reveal. No candidate is eligible for gameplay until audiovisual QA.",
+  "candidates": [
+    {
+      "videoId": "K_9JYPLU-8s",
+      "title": "React Doesn't Scale",
+      "sponsor": "Convex",
+      "sourceUrl": "https://www.youtube.com/watch?v=K_9JYPLU-8s",
+      "transcriptUrl": "https://podscan.fm/podcasts/theo-t3gg/episodes/react-doesnt-scale-theo-t3gg",
+      "setupWindow": [
+        54.777,
+        54.777
+      ],
+      "firstBrandMentionWindow": [
+        83,
+        108
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            54.777,
+            111.436
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=K_9JYPLU-8s&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "NE006pkiAnk",
+      "title": "So I've been testing Gemini 4...",
+      "sponsor": "WorkOS",
+      "sourceUrl": "https://www.youtube.com/watch?v=NE006pkiAnk",
+      "transcriptUrl": "https://arcmira.com/watch?v=NE006pkiAnk",
+      "setupWindow": [
+        72,
+        105
+      ],
+      "firstBrandMentionWindow": [
+        108,
+        108
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            86.42,
+            155.001
+          ],
+          "votes": 4
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=NE006pkiAnk&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "pJljViiUEPw",
+      "title": "I love Ultrafast (it's unusable)",
+      "sponsor": "Greptile",
+      "sourceUrl": "https://www.youtube.com/watch?v=pJljViiUEPw",
+      "transcriptUrl": "https://arcmira.com/watch?v=pJljViiUEPw",
+      "setupWindow": [
+        90,
+        122
+      ],
+      "firstBrandMentionWindow": [
+        122,
+        155
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            96,
+            192.377
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=pJljViiUEPw&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "jLgpzgpsWPc",
+      "title": "Elon promised this one would be good...",
+      "sponsor": "Blacksmith",
+      "sourceUrl": "https://www.youtube.com/watch?v=jLgpzgpsWPc",
+      "transcriptUrl": "https://arcmira.com/watch?v=jLgpzgpsWPc",
+      "setupWindow": [
+        58,
+        58
+      ],
+      "firstBrandMentionWindow": [
+        69,
+        105
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            54.35,
+            184.32
+          ],
+          "votes": 3
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=jLgpzgpsWPc&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "DbWL6Zs2j_g",
+      "title": "Meta just caught up with Anthropic",
+      "sponsor": "Browserbase",
+      "sourceUrl": "https://www.youtube.com/watch?v=DbWL6Zs2j_g",
+      "transcriptUrl": "https://arcmira.com/watch?v=DbWL6Zs2j_g",
+      "setupWindow": [
+        82,
+        114
+      ],
+      "firstBrandMentionWindow": [
+        114,
+        146
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            91.2,
+            173.615
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=DbWL6Zs2j_g&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "nYA0yASgaZI",
+      "title": "Does the $200 Codex plan suck now?",
+      "sponsor": "Browserbase",
+      "sourceUrl": "https://www.youtube.com/watch?v=nYA0yASgaZI",
+      "transcriptUrl": "https://arcmira.com/watch?v=nYA0yASgaZI",
+      "setupWindow": [
+        88,
+        132
+      ],
+      "firstBrandMentionWindow": [
+        132,
+        163
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            123.431,
+            230.979
+          ],
+          "votes": 3
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=nYA0yASgaZI&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "ND_kRgU_WlY",
+      "title": "You can rewrite typescript in rust for $420k",
+      "sponsor": "Qdrant",
+      "sourceUrl": "https://www.youtube.com/watch?v=ND_kRgU_WlY",
+      "transcriptUrl": "https://arcmira.com/watch?v=ND_kRgU_WlY",
+      "setupWindow": [
+        125,
+        161
+      ],
+      "firstBrandMentionWindow": [
+        161,
+        194
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            144,
+            261.535
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=ND_kRgU_WlY&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "38_6C0dkKmU",
+      "title": "finally a good small model",
+      "sponsor": "CodeRabbit",
+      "sourceUrl": "https://www.youtube.com/watch?v=38_6C0dkKmU",
+      "transcriptUrl": "https://arcmira.com/watch?v=38_6C0dkKmU",
+      "setupWindow": [
+        124,
+        158
+      ],
+      "firstBrandMentionWindow": [
+        158,
+        188
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            136,
+            219.968
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=38_6C0dkKmU&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "FsDUOUV9Vs8",
+      "title": "How Anthropic made Claude 3x faster",
+      "sponsor": "WorkOS",
+      "sourceUrl": "https://www.youtube.com/watch?v=FsDUOUV9Vs8",
+      "transcriptUrl": "https://arcmira.com/watch?v=FsDUOUV9Vs8",
+      "setupWindow": [
+        70,
+        105
+      ],
+      "firstBrandMentionWindow": [
+        105,
+        138
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            87.85,
+            159.327
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=FsDUOUV9Vs8&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "D8PikZ1KhUo",
+      "title": "If you have a Claude sub, watch this",
+      "sponsor": "Parallel",
+      "sourceUrl": "https://www.youtube.com/watch?v=D8PikZ1KhUo",
+      "transcriptUrl": "https://arcmira.com/watch?v=D8PikZ1KhUo",
+      "setupWindow": [
+        75,
+        109
+      ],
+      "firstBrandMentionWindow": [
+        75,
+        109
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            87.149,
+            163.171
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=D8PikZ1KhUo&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "vRS2leJLAI0",
+      "title": "I thought AI was gonna get cheaper?",
+      "sponsor": "Railway",
+      "sourceUrl": "https://www.youtube.com/watch?v=vRS2leJLAI0",
+      "transcriptUrl": "https://arcmira.com/watch?v=vRS2leJLAI0",
+      "setupWindow": [
+        86,
+        118
+      ],
+      "firstBrandMentionWindow": [
+        86,
+        118
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            87.3,
+            210.45
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=vRS2leJLAI0&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "vu8X3YroB-w",
+      "title": "OpenAI fights back",
+      "sponsor": "Depot",
+      "sourceUrl": "https://www.youtube.com/watch?v=vu8X3YroB-w",
+      "transcriptUrl": "https://arcmira.com/watch?v=vu8X3YroB-w",
+      "setupWindow": [
+        87,
+        120
+      ],
+      "firstBrandMentionWindow": [
+        87,
+        120
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            94.63,
+            202.17
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=vu8X3YroB-w&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "-XWSJM-Ue-o",
+      "title": "I was using Fable wrong, this is how I fixed it",
+      "sponsor": "Sentry",
+      "sourceUrl": "https://www.youtube.com/watch?v=-XWSJM-Ue-o",
+      "transcriptUrl": "https://arcmira.com/watch?v=-XWSJM-Ue-o",
+      "setupWindow": [
+        76,
+        112
+      ],
+      "firstBrandMentionWindow": [
+        112,
+        144
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            108.354,
+            231.399
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=-XWSJM-Ue-o&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "DlNTmbARUTA",
+      "title": "I think they mean it this time",
+      "sponsor": "Blacksmith",
+      "sourceUrl": "https://www.youtube.com/watch?v=DlNTmbARUTA",
+      "transcriptUrl": "https://arcmira.com/watch?v=DlNTmbARUTA",
+      "setupWindow": [
+        67,
+        99
+      ],
+      "firstBrandMentionWindow": [
+        67,
+        99
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            61.666,
+            162.802
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=DlNTmbARUTA&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "P7bxbDSnZRM",
+      "title": "Fable Vs Astra Debate Is Over",
+      "sponsor": "Macroscope",
+      "sourceUrl": "https://www.youtube.com/watch?v=P7bxbDSnZRM",
+      "transcriptUrl": "https://arcmira.com/watch?v=P7bxbDSnZRM",
+      "setupWindow": [
+        77,
+        113
+      ],
+      "firstBrandMentionWindow": [
+        146,
+        182
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            70.321,
+            232.749
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=P7bxbDSnZRM&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "4B4R2T4w7Kg",
+      "title": "AI May End The World",
+      "sponsor": "Blacksmith",
+      "sourceUrl": "https://www.youtube.com/watch?v=4B4R2T4w7Kg",
+      "transcriptUrl": "https://arcmira.com/watch?v=4B4R2T4w7Kg",
+      "setupWindow": [
+        71,
+        105
+      ],
+      "firstBrandMentionWindow": [
+        105,
+        140
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            87.216,
+            211.662
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=4B4R2T4w7Kg&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "q1D90-uGvBg",
+      "title": "How I Shipped 52 PR's (While On Vacation)",
+      "sponsor": "Browserbase",
+      "sourceUrl": "https://www.youtube.com/watch?v=q1D90-uGvBg",
+      "transcriptUrl": "https://arcmira.com/watch?v=q1D90-uGvBg",
+      "setupWindow": [
+        124,
+        157
+      ],
+      "firstBrandMentionWindow": [
+        157,
+        195
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            139.598,
+            230.55
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=q1D90-uGvBg&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "5KvY8CnBB3w",
+      "title": "Stop Pretending You Understand Your Codebase",
+      "sponsor": "Depot",
+      "sourceUrl": "https://www.youtube.com/watch?v=5KvY8CnBB3w",
+      "transcriptUrl": "https://arcmira.com/watch?v=5KvY8CnBB3w",
+      "setupWindow": [
+        149,
+        179
+      ],
+      "firstBrandMentionWindow": [
+        149,
+        179
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            149.015,
+            238.899
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=5KvY8CnBB3w&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "r_dw-1109Ag",
+      "title": "My New Favorite Model",
+      "sponsor": "Blacksmith",
+      "sourceUrl": "https://www.youtube.com/watch?v=r_dw-1109Ag",
+      "transcriptUrl": "https://arcmira.com/watch?v=r_dw-1109Ag",
+      "setupWindow": [
+        66,
+        100
+      ],
+      "firstBrandMentionWindow": [
+        100,
+        136
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            92.284,
+            219.225
+          ],
+          "votes": -1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=r_dw-1109Ag&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "SU7T8FztjKQ",
+      "title": "The Most Dangerous Claude Ever",
+      "sponsor": "Clerk",
+      "sourceUrl": "https://www.youtube.com/watch?v=SU7T8FztjKQ",
+      "transcriptUrl": "https://arcmira.com/watch?v=SU7T8FztjKQ",
+      "setupWindow": [
+        73,
+        109
+      ],
+      "firstBrandMentionWindow": [
+        73,
+        109
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            85.561,
+            160.334
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=SU7T8FztjKQ&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "Q7n0PGbMW_U",
+      "title": "They lied...",
+      "sponsor": "PostHog",
+      "sourceUrl": "https://www.youtube.com/watch?v=Q7n0PGbMW_U",
+      "transcriptUrl": "https://arcmira.com/watch?v=Q7n0PGbMW_U",
+      "setupWindow": [
+        122,
+        155
+      ],
+      "firstBrandMentionWindow": [
+        122,
+        155
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            121.231,
+            224.582
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=Q7n0PGbMW_U&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "jKCjLzjmiaA",
+      "title": "OpenAI Broke Up With Cursor",
+      "sponsor": "WorkOS",
+      "sourceUrl": "https://www.youtube.com/watch?v=jKCjLzjmiaA",
+      "transcriptUrl": "https://arcmira.com/watch?v=jKCjLzjmiaA",
+      "setupWindow": [
+        36,
+        72
+      ],
+      "firstBrandMentionWindow": [
+        72,
+        105
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            52.328,
+            153.713
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=jKCjLzjmiaA&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "VgLwsakPgo4",
+      "title": "NVIDIA Should Be Scared",
+      "sponsor": "Browserbase",
+      "sourceUrl": "https://www.youtube.com/watch?v=VgLwsakPgo4",
+      "transcriptUrl": "https://arcmira.com/watch?v=VgLwsakPgo4",
+      "setupWindow": [
+        121,
+        156
+      ],
+      "firstBrandMentionWindow": [
+        156,
+        189
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            127.464,
+            205.54
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=VgLwsakPgo4&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "Jf54k7tFeEc",
+      "title": "Turn off Claude Code's Memory",
+      "sponsor": "WorkOS",
+      "sourceUrl": "https://www.youtube.com/watch?v=Jf54k7tFeEc",
+      "transcriptUrl": "https://arcmira.com/watch?v=Jf54k7tFeEc",
+      "setupWindow": [
+        113,
+        147
+      ],
+      "firstBrandMentionWindow": [
+        113,
+        147
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            115.327,
+            195.73
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=Jf54k7tFeEc&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "0wemf5SZkW4",
+      "title": "He's right.",
+      "sponsor": "Blacksmith",
+      "sourceUrl": "https://www.youtube.com/watch?v=0wemf5SZkW4",
+      "transcriptUrl": "https://arcmira.com/watch?v=0wemf5SZkW4",
+      "setupWindow": [
+        80,
+        115
+      ],
+      "firstBrandMentionWindow": [
+        80,
+        115
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            81.28,
+            168.94
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=0wemf5SZkW4&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "06BvFMW8Ng8",
+      "title": "Which AI Models Are Worth Using",
+      "sponsor": "Browserbase",
+      "sourceUrl": "https://www.youtube.com/watch?v=06BvFMW8Ng8",
+      "transcriptUrl": "https://arcmira.com/watch?v=06BvFMW8Ng8",
+      "setupWindow": [
+        71,
+        104
+      ],
+      "firstBrandMentionWindow": [
+        104,
+        139
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            75.67,
+            167.91
+          ],
+          "votes": 3
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=06BvFMW8Ng8&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "4wVNFaFDIn8",
+      "title": "Your Mac is slowing you down (a rant about file systems)",
+      "sponsor": "CodeRabbit",
+      "sourceUrl": "https://www.youtube.com/watch?v=4wVNFaFDIn8",
+      "transcriptUrl": "https://arcmira.com/watch?v=4wVNFaFDIn8",
+      "setupWindow": [
+        84,
+        126
+      ],
+      "firstBrandMentionWindow": [
+        126,
+        158
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            114.11,
+            233.84
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=4wVNFaFDIn8&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "0oXOOlqVu5M",
+      "title": "So I tried Matt's skills...",
+      "sponsor": "Depot",
+      "sourceUrl": "https://www.youtube.com/watch?v=0oXOOlqVu5M",
+      "transcriptUrl": "https://arcmira.com/watch?v=0oXOOlqVu5M",
+      "setupWindow": [
+        79,
+        119
+      ],
+      "firstBrandMentionWindow": [
+        119,
+        150
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            114,
+            194.2
+          ],
+          "votes": 2
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=0oXOOlqVu5M&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "dLhcLqoff6k",
+      "title": "I'm done with terminals",
+      "sponsor": "Blacksmith",
+      "sourceUrl": "https://www.youtube.com/watch?v=dLhcLqoff6k",
+      "transcriptUrl": "https://arcmira.com/watch?v=dLhcLqoff6k",
+      "setupWindow": [
+        84,
+        116
+      ],
+      "firstBrandMentionWindow": [
+        84,
+        116
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            83.079,
+            145.895
+          ],
+          "votes": 0
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=dLhcLqoff6k&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "Be-NqsW-wuk",
+      "title": "Claude watermarks your code now",
+      "sponsor": "ClickHouse",
+      "sourceUrl": "https://www.youtube.com/watch?v=Be-NqsW-wuk",
+      "transcriptUrl": "https://arcmira.com/watch?v=Be-NqsW-wuk",
+      "setupWindow": [
+        80,
+        117
+      ],
+      "firstBrandMentionWindow": [
+        80,
+        117
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            107.364,
+            179.333
+          ],
+          "votes": 3
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=Be-NqsW-wuk&categories=%5B%22sponsor%22%5D"
+    },
+    {
+      "videoId": "c7W8jpsjtCc",
+      "title": "xAI just caught up (Grok 4.6 is here)",
+      "sponsor": "Mux",
+      "sourceUrl": "https://www.youtube.com/watch?v=c7W8jpsjtCc",
+      "transcriptUrl": "https://arcmira.com/watch?v=c7W8jpsjtCc",
+      "setupWindow": [
+        70,
+        108
+      ],
+      "firstBrandMentionWindow": [
+        108,
+        142
+      ],
+      "exactStart": null,
+      "exactBrandReveal": null,
+      "visualSpoilerTime": null,
+      "status": "needs-playback-qa",
+      "sponsorBlockSegments": [
+        {
+          "segment": [
+            93.2,
+            186.3
+          ],
+          "votes": 1
+        }
+      ],
+      "sponsorBlockSourceUrl": "https://sponsor.ajay.app/api/skipSegments?videoID=c7W8jpsjtCc&categories=%5B%22sponsor%22%5D"
+    }
+  ],
+  "deduplicationNotes": [
+    "NE006pkiAnk and FsDUOUV9Vs8 may use the same WorkOS creative. Compare before admitting both.",
+    "Multiple videos with the same sponsor are welcome; repeated recordings/scripts are not distinct creative."
+  ],
+  "sponsorBlockLicense": {
+    "name": "CC BY-NC-SA 4.0",
+    "source": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License",
+    "attribution": "Uses SponsorBlock data from https://sponsor.ajay.app/"
+  }
+}

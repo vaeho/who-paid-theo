@@ -1,0 +1,1155 @@
+[
+  {
+    "id": "P7bxbDSnZRM-setup-v2",
+    "kind": "youtube",
+    "videoId": "P7bxbDSnZRM",
+    "title": "Sponsor setup",
+    "sourceTitle": "Fable Vs Astra Debate Is Over",
+    "answer": "Macroscope",
+    "aliases": [
+      "Macroscope AI"
+    ],
+    "start": 97.745,
+    "safeEnd": 150,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary, excluding preceding sponsor announcement",
+      "cue": "First setup cue at 01:37: code generation is easier but maintaining architecture and consistency is harder.",
+      "source": "https://moderncreator.app/2026-09-11-theo-t3-gg-fable-5-1-vs-gpt-6-astra-the-debate-is-over",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": 110,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "macroscope-architecture-consistency",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=P7bxbDSnZRM",
+      "transcript": "https://moderncreator.app/2026-09-11-theo-t3-gg-fable-5-1-vs-gpt-6-astra-the-debate-is-over",
+      "captionBrandBlock": 153.475,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "38_6C0dkKmU-setup-v2",
+    "kind": "youtube",
+    "videoId": "38_6C0dkKmU",
+    "title": "Sponsor setup",
+    "sourceTitle": "finally a good small model",
+    "answer": "CodeRabbit",
+    "aliases": [
+      "Code Rabbit",
+      "coderabbit.ai"
+    ],
+    "start": 142.475,
+    "safeEnd": 162.475,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary, excluding preceding sponsor announcement",
+      "cue": "First setup cue at 02:22: increasingly complex codebases and security.",
+      "source": "https://moderncreator.app/2026-10-09-theo-t3-gg-finally-a-good-small-model",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": 143,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "coderabbit-codebase-security",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=38_6C0dkKmU",
+      "transcript": "https://moderncreator.app/2026-10-09-theo-t3-gg-finally-a-good-small-model",
+      "captionBrandBlock": 165.465,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "pJljViiUEPw-setup-v2",
+    "kind": "youtube",
+    "videoId": "pJljViiUEPw",
+    "title": "Sponsor setup",
+    "sourceTitle": "I love Ultrafast (it's unusable)",
+    "answer": "Greptile",
+    "aliases": [
+      "Greptile AI",
+      "greptile.com"
+    ],
+    "start": 100,
+    "safeEnd": 122,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "01:36 sponsor transition and request to think back to a complex pull request.",
+      "source": "https://moderncreator.app/2026-10-06-theo-t3-gg-i-love-ultrafast-it-s-unusable",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": 101,
+      "visualTransitionBracket": [
+        100,
+        101
+      ],
+      "researchAnchor": 96
+    },
+    "creativeId": "greptile-complex-pr-looked-right",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=pJljViiUEPw",
+      "transcript": "https://moderncreator.app/2026-10-06-theo-t3-gg-i-love-ultrafast-it-s-unusable",
+      "captionBrandBlock": 125,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "8WbW_n95wc4-setup-v2",
+    "kind": "youtube",
+    "videoId": "8WbW_n95wc4",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "CodeRabbit",
+    "aliases": [
+      "Code Rabbit",
+      "coderabbit.ai"
+    ],
+    "start": 93,
+    "safeEnd": 115,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "01:27 cue contains transition and setup about keeping on top of a codebase; sponsor boundary locates 01:30.",
+      "source": "https://moderncreator.app/2026-09-29-theo-t3-gg-openai-should-be-scared-of-this-one",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        93,
+        94
+      ],
+      "researchAnchor": 90
+    },
+    "creativeId": "coderabbit-keeping-up-codebase",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=8WbW_n95wc4",
+      "transcript": "https://moderncreator.app/2026-09-29-theo-t3-gg-openai-should-be-scared-of-this-one",
+      "captionBrandBlock": 118,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "F3YXg7AaKWE-setup-v2",
+    "kind": "youtube",
+    "videoId": "F3YXg7AaKWE",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Depot",
+    "aliases": [
+      "Depot.dev",
+      "depot dev"
+    ],
+    "start": 66.845,
+    "safeEnd": 99,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary, excluding preceding sponsor announcement",
+      "cue": "First setup cue at 01:06: developers waiting unexpectedly long on coding agents.",
+      "source": "https://moderncreator.app/2026-09-21-theo-t3-gg-theo-s-jev-take-incredible-classifier-not-a-reasoning-replacement",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "depot-agent-waiting",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=F3YXg7AaKWE",
+      "transcript": "https://moderncreator.app/2026-09-21-theo-t3-gg-theo-s-jev-take-incredible-classifier-not-a-reasoning-replacement",
+      "captionBrandBlock": 102.265,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "NvVbCqDgfCs-setup-v2",
+    "kind": "youtube",
+    "videoId": "NvVbCqDgfCs",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "WorkOS",
+    "aliases": [
+      "Work OS",
+      "workos.com"
+    ],
+    "start": 127.221,
+    "safeEnd": 148,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "02:01 cue includes transition into AI changing software purchasing by big businesses.",
+      "source": "https://moderncreator.app/2026-09-16-theo-t3-gg-how-i-code-without-typing",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        127.221,
+        128.221
+      ],
+      "researchAnchor": 121.221
+    },
+    "creativeId": "workos-enterprise-purchasing",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=NvVbCqDgfCs",
+      "transcript": "https://moderncreator.app/2026-09-16-theo-t3-gg-how-i-code-without-typing",
+      "captionBrandBlock": 151,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "iBrAWpjXNxs-setup-v2",
+    "kind": "youtube",
+    "videoId": "iBrAWpjXNxs",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Greptile",
+    "aliases": [
+      "Greptile AI",
+      "greptile.com"
+    ],
+    "start": 88.072,
+    "safeEnd": 112,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "SponsorBlock transition within matching caption",
+      "cue": "01:17 caption spans intro, sponsor transition and pull-request challenge; sponsor boundary at 01:28.072; 01:47 remains unbranded.",
+      "source": "https://moderncreator.app/2026-09-18-theo-t3-gg-please-stop-using-stupid-models",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "greptile-pull-request-challenge",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=iBrAWpjXNxs",
+      "transcript": "https://moderncreator.app/2026-09-18-theo-t3-gg-please-stop-using-stupid-models",
+      "captionBrandBlock": 115,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "VgLwsakPgo4-setup-v2",
+    "kind": "youtube",
+    "videoId": "VgLwsakPgo4",
+    "title": "Sponsor setup",
+    "sourceTitle": "NVIDIA Should Be Scared",
+    "answer": "Browserbase",
+    "aliases": [
+      "Browser base"
+    ],
+    "start": 133.464,
+    "safeEnd": 154,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "Existing model knowledge is insufficient for real work.",
+      "source": "https://arcmira.com/watch?v=VgLwsakPgo4",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": 134.5,
+      "visualTransitionBracket": [
+        133.464,
+        134.464
+      ],
+      "researchAnchor": 127.464
+    },
+    "creativeId": "browserbase-stale-model-knowledge",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=VgLwsakPgo4",
+      "transcript": "https://arcmira.com/watch?v=VgLwsakPgo4",
+      "captionBrandBlock": 156,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "06BvFMW8Ng8-setup-v2",
+    "kind": "youtube",
+    "videoId": "06BvFMW8Ng8",
+    "title": "Sponsor setup",
+    "sourceTitle": "Which AI Models Are Worth Using",
+    "answer": "Browserbase",
+    "aliases": [
+      "Browser base"
+    ],
+    "start": 75.67,
+    "safeEnd": 101,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "SponsorBlock boundary in matching setup paragraph",
+      "cue": "Direct API models lack internet context.",
+      "source": "https://arcmira.com/watch?v=06BvFMW8Ng8",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": 75.7,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "browserbase-api-model-context",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=06BvFMW8Ng8",
+      "transcript": "https://arcmira.com/watch?v=06BvFMW8Ng8",
+      "captionBrandBlock": 104,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "U3uX115I9sY-setup-v2",
+    "kind": "youtube",
+    "videoId": "U3uX115I9sY",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Firecrawl",
+    "aliases": [
+      "Fire crawl"
+    ],
+    "start": 72,
+    "safeEnd": 131.395,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "SponsorBlock boundary in transition/setup paragraph",
+      "cue": "AI failed to monitor an LG monitor launch.",
+      "source": "https://moderncreator.app/2026-07-09-theo-t3-gg-oh-no-the-new-grok-model-is-actually-good",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "firecrawl-lg-monitor-launch",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=U3uX115I9sY",
+      "transcript": "https://moderncreator.app/2026-07-09-theo-t3-gg-oh-no-the-new-grok-model-is-actually-good",
+      "captionBrandBlock": 133.395,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "mHG7K7QmQyU-setup-v2",
+    "kind": "youtube",
+    "videoId": "mHG7K7QmQyU",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Browserbase",
+    "aliases": [
+      "Browser base"
+    ],
+    "start": 141.72,
+    "safeEnd": 172.68,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary",
+      "cue": "Skepticism about screenshot-based computer use changed after testing.",
+      "source": "https://moderncreator.app/2026-07-10-theo-t3-gg-so-i-ve-been-using-gpt-5-6-for-a-while",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "browserbase-screenshot-skepticism",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=mHG7K7QmQyU",
+      "transcript": "https://moderncreator.app/2026-07-10-theo-t3-gg-so-i-ve-been-using-gpt-5-6-for-a-while",
+      "captionBrandBlock": 174.68,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "W-kM56mf-Nw-setup-v2",
+    "kind": "youtube",
+    "videoId": "W-kM56mf-Nw",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "CodeRabbit",
+    "aliases": [
+      "Code Rabbit",
+      "coderabbit.ai"
+    ],
+    "start": 96.275,
+    "safeEnd": 120.695,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary",
+      "cue": "Agents need context across repositories, logs and Slack.",
+      "source": "https://moderncreator.app/2026-06-13-theo-t3-gg-breaking-fable-and-mythos-have-been-taken-down-for-security-concerns",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "coderabbit-cross-repo-context",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=W-kM56mf-Nw",
+      "transcript": "https://moderncreator.app/2026-06-13-theo-t3-gg-breaking-fable-and-mythos-have-been-taken-down-for-security-concerns",
+      "captionBrandBlock": 122.695,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "5LqC6qdVAwU-setup-v2",
+    "kind": "youtube",
+    "videoId": "5LqC6qdVAwU",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Browserbase",
+    "aliases": [
+      "Browser base"
+    ],
+    "start": 118.82,
+    "safeEnd": 141.885,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary",
+      "cue": "A confession about underestimating browser agents.",
+      "source": "https://moderncreator.app/2026-07-04-theo-t3-gg-you-were-lied-to-about-fable",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "browserbase-agent-underestimation",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=5LqC6qdVAwU",
+      "transcript": "https://moderncreator.app/2026-07-04-theo-t3-gg-you-were-lied-to-about-fable",
+      "captionBrandBlock": 143.885,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "yzRJDl5GQVg-setup-v2",
+    "kind": "youtube",
+    "videoId": "yzRJDl5GQVg",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Browserbase",
+    "aliases": [
+      "Browser base"
+    ],
+    "start": 91.01,
+    "safeEnd": 118.605,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "Agents can navigate complex browser dashboards.",
+      "source": "https://moderncreator.app/2026-06-27-theo-t3-gg-gpt-5-6-is-here-and-we-can-t-use-it",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        91.01,
+        92.01
+      ],
+      "researchAnchor": 85.01
+    },
+    "creativeId": "browserbase-dashboard-navigation",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=yzRJDl5GQVg",
+      "transcript": "https://moderncreator.app/2026-06-27-theo-t3-gg-gpt-5-6-is-here-and-we-can-t-use-it",
+      "captionBrandBlock": 120.60464757709252,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "8GRmLR__OGQ-setup-v2",
+    "kind": "youtube",
+    "videoId": "8GRmLR__OGQ",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Clerk",
+    "aliases": [
+      "Clerk.dev",
+      "Clerk.com"
+    ],
+    "start": 171.37999,
+    "safeEnd": 191.66,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Actual setup paragraph boundary",
+      "cue": "Agents keep getting authentication and billing wrong.",
+      "source": "https://moderncreator.app/2026-07-06-theo-t3-gg-a-proper-guide-to-fable-5",
+      "transitionInclusive": false,
+      "wordAlignment": "caption paragraph boundary",
+      "previousStart": null,
+      "visualTransitionBracket": null,
+      "researchAnchor": null
+    },
+    "creativeId": "clerk-agent-auth-billing",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=8GRmLR__OGQ",
+      "transcript": "https://moderncreator.app/2026-07-06-theo-t3-gg-a-proper-guide-to-fable-5",
+      "captionBrandBlock": 193.66,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "-g1yKRo5XtY-setup-v2",
+    "kind": "youtube",
+    "videoId": "-g1yKRo5XtY",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Arcjet",
+    "aliases": [
+      "Arc jet"
+    ],
+    "start": 109.114,
+    "safeEnd": 141.36,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "Quick question: malicious traffic targeting expensive LLM endpoints.",
+      "source": "https://arcmira.com/watch?v=-g1yKRo5XtY",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        109.114,
+        110.114
+      ],
+      "researchAnchor": 105.114
+    },
+    "creativeId": "arcjet-malicious-llm-traffic",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=-g1yKRo5XtY",
+      "transcript": "https://arcmira.com/watch?v=-g1yKRo5XtY",
+      "captionBrandBlock": 143.36,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "CtMk0GuQ7cc-setup-v2",
+    "kind": "youtube",
+    "videoId": "CtMk0GuQ7cc",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Clerk",
+    "aliases": [
+      "Clerk.dev",
+      "Clerk.com"
+    ],
+    "start": 41.94,
+    "safeEnd": 69.84,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "We need to be realistic: easy AI coding still risks auth/payment mistakes.",
+      "source": "https://arcmira.com/watch?v=CtMk0GuQ7cc",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        41.94,
+        42.94
+      ],
+      "researchAnchor": 40.94
+    },
+    "creativeId": "clerk-realistic-ai-auth-payments",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=CtMk0GuQ7cc",
+      "transcript": "https://arcmira.com/watch?v=CtMk0GuQ7cc",
+      "captionBrandBlock": 71.84,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "Dgm_Rr5JtaU-setup-v2",
+    "kind": "youtube",
+    "videoId": "Dgm_Rr5JtaU",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "WorkOS",
+    "aliases": [
+      "Work OS",
+      "workos.com"
+    ],
+    "start": 111.773,
+    "safeEnd": 157.84,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "I have something embarrassing: self-rolled authentication prevented scaling.",
+      "source": "https://arcmira.com/watch?v=Dgm_Rr5JtaU",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        111.773,
+        112.773
+      ],
+      "researchAnchor": 97.773
+    },
+    "creativeId": "workos-embarrassing-self-rolled-auth",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=Dgm_Rr5JtaU",
+      "transcript": "https://arcmira.com/watch?v=Dgm_Rr5JtaU",
+      "captionBrandBlock": 159.84,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "weLhik7ArCY-setup-v2",
+    "kind": "youtube",
+    "videoId": "weLhik7ArCY",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "G2i",
+    "aliases": [
+      "G2i.io",
+      "G2I"
+    ],
+    "start": 176.682,
+    "safeEnd": 200.32,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "T3Chat hiring: an audience gives an unfair recruiting advantage.",
+      "source": "https://arcmira.com/watch?v=weLhik7ArCY",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        176.682,
+        177.682
+      ],
+      "researchAnchor": 165.682
+    },
+    "creativeId": "g2i-audience-hiring-advantage",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=weLhik7ArCY",
+      "transcript": "https://arcmira.com/watch?v=weLhik7ArCY",
+      "captionBrandBlock": 202.32,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "UV9GqinedQ8-setup-v2",
+    "kind": "youtube",
+    "videoId": "UV9GqinedQ8",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "G2i",
+    "aliases": [
+      "G2i.io",
+      "G2I"
+    ],
+    "start": 92.551,
+    "safeEnd": 113.6,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "AI resumes overwhelm teams hiring engineers.",
+      "source": "https://arcmira.com/watch?v=UV9GqinedQ8",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        92.551,
+        93.551
+      ],
+      "researchAnchor": 87.551
+    },
+    "creativeId": "g2i-ai-resume-inundation",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=UV9GqinedQ8",
+      "transcript": "https://arcmira.com/watch?v=UV9GqinedQ8",
+      "captionBrandBlock": 115.6,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "K_9JYPLU-8s-setup-v2",
+    "kind": "youtube",
+    "videoId": "K_9JYPLU-8s",
+    "title": "Sponsor setup",
+    "sourceTitle": "React Doesn't Scale",
+    "answer": "Convex",
+    "aliases": [
+      "Convex.dev"
+    ],
+    "start": 58,
+    "safeEnd": 84,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of observed first-ad-shot transition, matched to caption opener; not an arbitrary mid-setup offset",
+      "cue": "Official transcript 0:56 cue begins sponsor segue and first dashboard-sketch request; next cues 1:04 and 1:12 remain unbranded; first Convex cue 1:27.",
+      "source": "https://www.youtube.com/watch?v=K_9JYPLU-8s",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": 57,
+      "visualTransitionBracket": [
+        58,
+        59
+      ],
+      "researchAnchor": 56
+    },
+    "creativeId": "convex-oranges-dashboard-skit",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=K_9JYPLU-8s",
+      "transcript": "https://www.youtube.com/watch?v=K_9JYPLU-8s",
+      "captionBrandBlock": 87,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "xmGY276gEFY-setup-v2",
+    "kind": "youtube",
+    "videoId": "xmGY276gEFY",
+    "title": "Sponsor setup",
+    "sourceTitle": "Official Theo video",
+    "answer": "Blacksmith",
+    "aliases": [],
+    "start": 113.78,
+    "safeEnd": 144.84999,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of first filmed ad-shot transition, preserving the opening question before the115.460 paragraph",
+      "cue": "Tell me if you have been there before: agent changes, CI waits and manually passing errors back.",
+      "source": "https://moderncreator.app/2026-07-21-theo-t3-gg-claude-code-s-creator-has-some-really-good-advice",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        113.78,
+        114.78
+      ],
+      "researchAnchor": null
+    },
+    "creativeId": "blacksmith-agent-ci-feedback-loop",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=xmGY276gEFY",
+      "transcript": "https://moderncreator.app/2026-07-21-theo-t3-gg-claude-code-s-creator-has-some-really-good-advice",
+      "captionBrandBlock": 146.84999,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  },
+  {
+    "id": "q1D90-uGvBg-setup-v2",
+    "kind": "youtube",
+    "videoId": "q1D90-uGvBg",
+    "title": "Sponsor setup",
+    "sourceTitle": "How I Shipped 52 PR's (While On Vacation)",
+    "answer": "Browserbase",
+    "aliases": [
+      "Browser base"
+    ],
+    "start": 141.6,
+    "safeEnd": 169.975,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of first filmed ad-shot transition, matched to first browser-agent setup caption",
+      "cue": "And the first really cool thing I want to show you guys \u2026 to do today, which is why they need a browser.",
+      "source": "https://moderncreator.app/2026-09-09-theo-t3-gg-you-re-using-ai-agents-wrong",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": 142.6,
+      "visualTransitionBracket": [
+        141.6,
+        142.6
+      ],
+      "researchAnchor": null
+    },
+    "creativeId": "browserbase-agents-need-live-web",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=q1D90-uGvBg",
+      "transcript": "https://moderncreator.app/2026-09-09-theo-t3-gg-you-re-using-ai-agents-wrong",
+      "captionBrandBlock": 171.975,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
+  }
+]
