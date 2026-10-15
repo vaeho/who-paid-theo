@@ -33,6 +33,6 @@ The full official YouTube player remains visible with normal controls and brandi
 
 ## Rights and attribution
 
-Application code has no open-source license selected yet; publishing source does not grant an additional software license. A maintainer must choose the application license. See [LICENSE.md](LICENSE.md).
+Original application code, original documentation, tests and curation tooling are licensed under [MIT](LICENSE.md), copyright 2026 vaeho. Third-party clip metadata and media are explicitly excluded from that grant.
 
-SponsorBlock-derived segment metadata is separately **CC BY-NC-SA4.0**; see [DATA-LICENSE.md](DATA-LICENSE.md). Those terms are not replaced by any later application license. Theo's videos, sponsor marks, and third-party caption sources remain their owners' material; this repository grants no media rights. Fonts load from Google Fonts: DM Sans, Barlow Condensed, IBM Plex Mono.
+SponsorBlock-derived segment metadata is separately **CC BY-NC-SA4.0**; see [DATA-LICENSE.md](DATA-LICENSE.md). Those terms are not replaced by the application MIT license. Theo's videos, sponsor marks, and third-party caption sources remain their owners' material; this repository grants no media rights. Fonts load from Google Fonts: DM Sans, Barlow Condensed, IBM Plex Mono.

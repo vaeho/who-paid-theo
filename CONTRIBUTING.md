@@ -1,6 +1,6 @@
 # Contributing
 
-Issues and pull requests are welcome. Check the current application-license notice before reusing code or submitting a substantial contribution. No CLA or new license grant is implied.
+Issues and pull requests are welcome. Original application code is licensed under [MIT](LICENSE.md). Unless explicitly stated otherwise, contributions of original code and documentation are submitted under the same MIT license. Third-party clip metadata and media are excluded from that grant; preserve their separate terms and attribution in [DATA-LICENSE.md](DATA-LICENSE.md). Submit only material you are entitled to contribute.
 
 ## Code changes
 
