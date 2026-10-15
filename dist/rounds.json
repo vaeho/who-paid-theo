@@ -1151,5 +1151,54 @@
       "license": "CC BY-NC-SA 4.0",
       "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
     }
+  },
+  {
+    "id": "w4gqOWUw230-setup-v2",
+    "kind": "youtube",
+    "videoId": "w4gqOWUw230",
+    "title": "Sponsor setup",
+    "sourceTitle": "Life after TypeScript",
+    "answer": "Blacksmith",
+    "aliases": [],
+    "start": 69,
+    "safeEnd": 97,
+    "hintDurations": [
+      5,
+      10,
+      15,
+      20
+    ],
+    "status": "beta",
+    "verified": false,
+    "captionChecked": true,
+    "visualChecked": true,
+    "reviewedBy": "Caption research + official-player visual sample, 2026-10-15",
+    "startAudit": {
+      "basis": "Conservative lower edge of official-player filmed ad-shot transition at69\u201370; opening question is within63\u201371 official transcript cue",
+      "cue": "Have you ever just spent a whole day working on a big feature? Failing CI and unhelpful logs.",
+      "source": "https://www.youtube.com/watch?v=w4gqOWUw230",
+      "transitionInclusive": true,
+      "wordAlignment": "transition-inclusive source anchor; exact first spoken word not claimed",
+      "previousStart": null,
+      "visualTransitionBracket": [
+        69,
+        70
+      ],
+      "researchAnchor": 63.095
+    },
+    "creativeId": "blacksmith-full-day-feature-failing-ci",
+    "evidence": {
+      "primary": "https://www.youtube.com/watch?v=w4gqOWUw230",
+      "transcript": "https://www.youtube.com/watch?v=w4gqOWUw230",
+      "captionBrandBlock": 99,
+      "method": "Finer caption cue identifies the setup transition; official-player screenshots sampled every second from start through start+20. No direct auditory or frame-perfect verification.",
+      "audioConfidence": "caption-supported; not listened",
+      "sponsorIdentity": "Official video description checked"
+    },
+    "researchAttribution": {
+      "source": "SponsorBlock https://sponsor.ajay.app/",
+      "license": "CC BY-NC-SA 4.0",
+      "licenseUrl": "https://github.com/ajayyy/SponsorBlock/wiki/Database-and-API-License"
+    }
   }
 ]

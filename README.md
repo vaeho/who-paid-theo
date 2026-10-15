@@ -8,7 +8,7 @@ An unofficial fan game: recognize a sponsor from Theo's setup before he names it
 
 Listen to5 seconds, then guess a brand. Wrong guesses or Skip unlock10,15, then20 cumulative seconds. At20 seconds retries remain unlimited. Only a correct answer or explicit Reveal unlocks Next; the game never advances automatically. Fewer hints and wrong guesses earn more points. Type to search brands; arrows select, Enter fills, another Enter submits. Stats, theme and custom clips stay in your browser.
 
-Current library:23 caption-supported beta reads across12 brands. These use caption cue bounds and official-player visual samples, not direct auditory or frame-perfect verification. Sources and start-audit uncertainty are retained per round. Metadata contains answers.
+Current library:24 caption-supported beta reads across12 brands. These use caption cue bounds and official-player visual samples, not direct auditory or frame-perfect verification. Sources and start-audit uncertainty are retained per round. Metadata contains answers.
 
 ## Local development
 
